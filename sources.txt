@@ -1,0 +1,16 @@
+#POUŽITÉ
+https://urbansounddataset.weebly.com/urbansound8k.html
+https://github.com/soundata/soundata#quick-example
+
+
+
+
+
+#ZÁLOHA
+https://research.google.com/audioset/
+https://freesound.org/
+https://github.com/karolpiczak/ESC-50
+
+
+
+

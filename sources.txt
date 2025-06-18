@@ -1,7 +1,8 @@
 #POUŽITÉ
 https://urbansounddataset.weebly.com/urbansound8k.html
 https://github.com/soundata/soundata#quick-example
-
+https://github.com/aoifemcdonagh/audioset-processing
+https://uppbeat.io/sfx/category/gun
 
 
 
